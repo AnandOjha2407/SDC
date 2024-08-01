@@ -69,15 +69,12 @@ text-decoration: underline;
     background-color: rgb(133, 135, 135);
 }
 
-.register{
-    justify-content: space-evenly;
-}
-
 
 .text-big{
     font-size: 41px;
     
 }
+
 .text-small{
     font-size: 18px;
     font-style: italic;
@@ -97,7 +94,7 @@ text-decoration: underline;
     flex-direction: row-reverse;
   
 }
-.blog{
+.content-section{
     padding: 0 50px;
 }
 .section img{
